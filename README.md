@@ -17,7 +17,28 @@ good good study,day day up!
 
 ### 使用的技术栈
 
-1. 
++ 后端：
+  + SpringBoot 3.x
+  + JDK 21
++ 前端：
+  + Vue 3 + TypeScript
+  + Vite
+  + Element Plus
++ 数据库：
+  + MySQL 8.0
+  + PostgreSQL
+  + MyBatis-Plus
+  + Redis 7.x
++ 安全认证：
+  + Sa-Token
++ 接口文档：
+  + Knife4j 4.x
+  + Apifox
++ 部署：
+  + Docker + Docker Compose
+  + Nginx
++ AI：
+  + Spring AI
 
 ### 实现的功能
 
@@ -29,3 +50,8 @@ good good study,day day up!
 6. 读书笔记。
 7. 每日热点新闻/金句。
 8. 生成周报、月报。
+
+### 目标
+
+1. 自己从头到尾都不敲一行代码，都让AI生成。
+2. 第一版实现功能：ToDo List、记账、成功日记。
